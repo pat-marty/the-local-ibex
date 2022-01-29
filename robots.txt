@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://the-local-ibex.github.io/sitemap.xml
+Sitemap: https://pat-marty.github.io/the-local-ibex.github.io/sitemap.xml
