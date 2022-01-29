@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Local Ibex on </title>
-    <link>https://pat-marty.github.io/the-local-ibex/</link>
+    <link>/</link>
     <description>Recent content in The Local Ibex on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022 Bruno Marty and Pat Marty</copyright>
     <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
     
-        <atom:link href="https://pat-marty.github.io/the-local-ibex/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://pat-marty.github.io/the-local-ibex/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/about/</guid>
+      <guid>/about/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>Recent Tours</title>
-      <link>https://pat-marty.github.io/the-local-ibex/blog/</link>
+      <link>/blog/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/blog/</guid>
+      <guid>/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explore</title>
-      <link>https://pat-marty.github.io/the-local-ibex/docs/</link>
+      <link>/docs/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/docs/</guid>
+      <guid>/docs/</guid>
       <description>View one of our previous tours.</description>
     </item>
     
