@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backcountry Skiing on </title>
-    <link>/docs/backcountry_skiing/</link>
+    <link>https://pat-marty.github.io/the-local-ibex/docs/backcountry_skiing/</link>
     <description>Recent content in Backcountry Skiing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:49:15 +0000</lastBuildDate><atom:link href="/docs/backcountry_skiing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:49:15 +0000</lastBuildDate><atom:link href="https://pat-marty.github.io/the-local-ibex/docs/backcountry_skiing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backcountry Skiing — Overview</title>
-      <link>/docs/backcountry_skiing/overview/</link>
+      <link>https://pat-marty.github.io/the-local-ibex/docs/backcountry_skiing/overview/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/docs/backcountry_skiing/overview/</guid>
+      <guid>https://pat-marty.github.io/the-local-ibex/docs/backcountry_skiing/overview/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
