@@ -59,28 +59,14 @@
   </url>
   
   <url>
-    <loc>https://pat-marty.github.io/the-local-ibex/blog/hello-world/</loc>
-    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pat-marty.github.io/the-local-ibex/about/</loc>
-    <lastmod>2020-11-04T09:19:42+01:00</lastmod>
+    <lastmod>2022-02-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pat-marty.github.io/the-local-ibex/contributors/bruno-marty/</loc>
-    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pat-marty.github.io/the-local-ibex/contributors/pat-marty/</loc>
+    <loc>https://pat-marty.github.io/the-local-ibex/blog/hello-world/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -89,6 +75,97 @@
   <url>
     <loc>https://pat-marty.github.io/the-local-ibex/disclaimer/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/piz_terza/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/piz_chavalatsch/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/chamerstock/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/guferjoch/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/schwalmis/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/sidelhorn/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/kroentenhuette_sac/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/baechlitalhuette_sac/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/muttseehuette_sac/</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/siwfass/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/schimberig/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/contributors/bruno-marty/</loc>
+    <lastmod>2020-10-06T08:50:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/contributors/pat-marty/</loc>
+    <lastmod>2020-10-06T08:50:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -117,6 +194,13 @@
   <url>
     <loc>https://pat-marty.github.io/the-local-ibex/</loc>
     <lastmod>2020-10-06T08:47:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/leglerhuette_sac/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
