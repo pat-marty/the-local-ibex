@@ -79,7 +79,7 @@
     </url>
     
     <url>
-      <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/schimberig/</loc>
+      <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/schimbrig/</loc>
       <lastmod>2022-01-22T00:00:00+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -88,6 +88,13 @@
     <url>
       <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/leglerhuette_sac/</loc>
       <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://pat-marty.github.io/the-local-ibex/docs/hiking/barrhorn/</loc>
+      <lastmod>2022-02-21T00:00:00+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
