@@ -13,7 +13,7 @@
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://pat-marty.github.io/the-local-ibex/docs/hiking/overview/</guid>
-      <description>Descent from the summit of the Üssers Barrhorn — one of our all-time favourite hikes. Welcome! # Here you&amp;rsquo;ll find a compilation of hikes from in and around Switzerland. We&amp;rsquo;ve done our best to include details such as:
+      <description>There&#39;s no place quite like the mountains. Welcome! # Here you&amp;rsquo;ll find a compilation of hikes from in and around Switzerland. We&amp;rsquo;ve done our best to include details such as:
  Distance and approximate walking times Difficulty rating Photos Maps  A Word of Caution # Keep in mind that in case you choose to undertake any of the hikes listed on this website, you do so at your own risk.</description>
     </item>
     
@@ -63,6 +63,15 @@
     </item>
     
     <item>
+      <title>Glecksteinhütte SAC</title>
+      <link>https://pat-marty.github.io/the-local-ibex/docs/hiking/glecksteinhuette_sac/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-marty.github.io/the-local-ibex/docs/hiking/glecksteinhuette_sac/</guid>
+      <description>Difficulty T3+     ⇄ Distance 9.2 km   ↑ Up 910 m   ↓ Down 910 m   Notable Locations Glecksteinhütte SAC, Grindelwald   Public Transit Access? Yes1        Overview Map Detailed Description Gallery   Quick Summary #  A beautiful but very exposed hike to the Glecksteinhütte SAC near Grindelwald. Starting point was easily accessible with public transit.</description>
+    </item>
+    
+    <item>
       <title>Sidelhorn</title>
       <link>https://pat-marty.github.io/the-local-ibex/docs/hiking/sidelhorn/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
@@ -81,21 +90,12 @@
     </item>
     
     <item>
-      <title>Bächlitalhütte SAC</title>
-      <link>https://pat-marty.github.io/the-local-ibex/docs/hiking/baechlitalhuette_sac/</link>
-      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Grevasalvas</title>
+      <link>https://pat-marty.github.io/the-local-ibex/docs/hiking/grevasalvas/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/docs/hiking/baechlitalhuette_sac/</guid>
-      <description>Difficulty T2     ⇄ Distance 9.8 km   ↑ Up 610 m   ↓ Down 610 m   Notable Locations Räterichsboden, Bächlitalhütte SAC   Public Transit Access? Yes      The Bächlitalhütte SAC perched at the end of the Bächlisboden glacial floodplain.  Overview Map Detailed Description Gallery   Quick Summary #  Day hike from the Räterichsbodensee (near the Grimsel Pass) to the Bächlitalhütte SAC The starting point is easily accessible with both car and public transit The ascent and descent take the same path; there is only one officially marked path which leads to the Bächlitalhütte If we were to do this hike again, we&amp;rsquo;d go when the ground would be dry.</description>
-    </item>
-    
-    <item>
-      <title>Muttseehütte SAC</title>
-      <link>https://pat-marty.github.io/the-local-ibex/docs/hiking/muttseehuette_sac/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pat-marty.github.io/the-local-ibex/docs/hiking/muttseehuette_sac/</guid>
-      <description>Difficulty T3     ⇄ Distance 11.2 km   ↑ Up 730 m   ↓ Down 730 m   Notable Locations Tierfed, Kalktrittli, Muttseehütte SAC, Muttenchopf, Limmerensee   Public Transit Access? No      The Limmerensee as seen from the Muttenchopf.  Overview Map Detailed Description Gallery   Quick Summary #  Took a (completely over-engineered) cable car from Tierfed to Kalktrittli.</description>
+      <guid>https://pat-marty.github.io/the-local-ibex/docs/hiking/grevasalvas/</guid>
+      <description>Difficulty T2     ⇄ Distance 10.1 km   ↑ Up 420 m   ↓ Down 870 m   Notable Locations Julierpass, Leg Grevasalvas, Fuorcla Grevasalvas, Plaun da Lej   Public Transit Access? Yes      Hiking down the quiet valley of Grevasalvas from the Julierpass to (near) the Malojapass.  Overview Map Gallery   Quick Summary #  Hiked from the Julierpass to Grevasalvas in the Engadin.</description>
     </item>
     
   </channel>
