@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Local Ibex on </title>
-    <link>https://pat-marty.github.io/the-local-ibex/</link>
+    <link>https://www.thelocalibex.com/</link>
     <description>Recent content in The Local Ibex on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © {year} Bruno and Pat</copyright>
     <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
     
-        <atom:link href="https://pat-marty.github.io/the-local-ibex/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.thelocalibex.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://pat-marty.github.io/the-local-ibex/about/</link>
+      <link>https://www.thelocalibex.com/about/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/about/</guid>
+      <guid>https://www.thelocalibex.com/about/</guid>
       <description>Bruno  Pat   Bruno and Pat are a father/son duo that love to explore the Swiss alps.
 Many of the tours you&amp;rsquo;ll find here aren&amp;rsquo;t ones that you&amp;rsquo;ll typically find in regular tourist brochures. We prefer to explore trails that are off the beaten track to enjoy the mountains the way that the locals for a given region do.
 We&amp;rsquo;ve listed a number of different tours we&amp;rsquo;ve previously undertaken throughout Switzerland, with the primary focus of our activities being in the realm of hiking.</description>
@@ -25,29 +25,29 @@ We&amp;rsquo;ve listed a number of different tours we&amp;rsquo;ve previously un
     
     <item>
       <title>Disclaimer</title>
-      <link>https://pat-marty.github.io/the-local-ibex/disclaimer/</link>
+      <link>https://www.thelocalibex.com/disclaimer/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/disclaimer/</guid>
+      <guid>https://www.thelocalibex.com/disclaimer/</guid>
       <description>Last updated on February 4, 2022.
 Any outdoor activity, especially those in the mountains, inherently possesses risks which may lead to severe injury or death. This website is not meant to serve as an educational guide or be a substitute for proper alpine training, but rather a general informational reference. It is your own responsibility to acquire the necessary training and expertise to ensure the safety of yourself and others while in the mountains.</description>
     </item>
     
     <item>
       <title>Blog &amp; Recent Tours</title>
-      <link>https://pat-marty.github.io/the-local-ibex/blog/</link>
+      <link>https://www.thelocalibex.com/blog/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/blog/</guid>
+      <guid>https://www.thelocalibex.com/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explore</title>
-      <link>https://pat-marty.github.io/the-local-ibex/docs/</link>
+      <link>https://www.thelocalibex.com/docs/</link>
       <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/docs/</guid>
+      <guid>https://www.thelocalibex.com/docs/</guid>
       <description>View one of our previous tours.</description>
     </item>
     

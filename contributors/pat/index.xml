@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pat on </title>
-    <link>https://pat-marty.github.io/the-local-ibex/contributors/pat/</link>
+    <link>https://www.thelocalibex.com/contributors/pat/</link>
     <description>Recent content in Pat on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:50:45 +0000</lastBuildDate><atom:link href="https://pat-marty.github.io/the-local-ibex/contributors/pat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:50:45 +0000</lastBuildDate><atom:link href="https://www.thelocalibex.com/contributors/pat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tabs and Image Galleries</title>
-      <link>https://pat-marty.github.io/the-local-ibex/blog/tabs-and-image-galleries/</link>
+      <link>https://www.thelocalibex.com/blog/tabs-and-image-galleries/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/blog/tabs-and-image-galleries/</guid>
+      <guid>https://www.thelocalibex.com/blog/tabs-and-image-galleries/</guid>
       <description>Brief Overview # We&amp;rsquo;ve added tabs and image galleries to all of the current hiking posts.
 Tabs #  Splits up the content of a page into individual sections Requires less scrolling to get to the part that you might be interested in  Example:
  First Tab Second Tab Third Tab    A first sample image  Some Text For the Second Tab # Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
@@ -20,10 +20,10 @@ Tabs #  Splits up the content of a page into individual sections Requires less s
     
     <item>
       <title>Website Launch</title>
-      <link>https://pat-marty.github.io/the-local-ibex/blog/website-launch/</link>
+      <link>https://www.thelocalibex.com/blog/website-launch/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/blog/website-launch/</guid>
+      <guid>https://www.thelocalibex.com/blog/website-launch/</guid>
       <description>We will be uploading a number of hiking tours from 2021 shortly and we&amp;rsquo;re also planning on uploading some skiing and snowshoeing tours over the coming weeks/months. Summaries of some of our other tours from 2020 and earlier are also currently in the works.
 If you have any comments or suggestions, let us know!</description>
     </item>

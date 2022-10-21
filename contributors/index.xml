@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contributors on </title>
-    <link>https://pat-marty.github.io/the-local-ibex/contributors/</link>
+    <link>https://www.thelocalibex.com/contributors/</link>
     <description>Recent content in Contributors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:50:29 +0000</lastBuildDate><atom:link href="https://pat-marty.github.io/the-local-ibex/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:50:29 +0000</lastBuildDate><atom:link href="https://www.thelocalibex.com/contributors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bruno</title>
-      <link>https://pat-marty.github.io/the-local-ibex/contributors/bruno/</link>
+      <link>https://www.thelocalibex.com/contributors/bruno/</link>
       <pubDate>Tue, 06 Oct 2020 08:50:45 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/contributors/bruno/</guid>
+      <guid>https://www.thelocalibex.com/contributors/bruno/</guid>
       <description>img{ border-radius:50%; overflow:hidden; }  Animal Scientist, Doctor, Skiier-Extraordinaire, Part Mountain Goat.</description>
     </item>
     
     <item>
       <title>Pat</title>
-      <link>https://pat-marty.github.io/the-local-ibex/contributors/pat/</link>
+      <link>https://www.thelocalibex.com/contributors/pat/</link>
       <pubDate>Tue, 06 Oct 2020 08:50:45 +0000</pubDate>
       
-      <guid>https://pat-marty.github.io/the-local-ibex/contributors/pat/</guid>
+      <guid>https://www.thelocalibex.com/contributors/pat/</guid>
       <description>img{ border-radius:50%; overflow:hidden; }  Engineer, Geophysicist, Hiking Enthusiast, Music Nerd.</description>
     </item>
     
