@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://www.thelocalibex.com/map/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.thelocalibex.com/about/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -143,20 +150,6 @@
   </url>
   
   <url>
-    <loc>https://www.thelocalibex.com/blog/tabs-and-image-galleries/</loc>
-    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thelocalibex.com/blog/website-launch/</loc>
-    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.thelocalibex.com/disclaimer/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -264,13 +257,6 @@
   <url>
     <loc>https://www.thelocalibex.com/contributors/</loc>
     <lastmod>2020-10-06T08:50:29+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.thelocalibex.com/blog/</loc>
-    <lastmod>2020-10-06T08:49:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
